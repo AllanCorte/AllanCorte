@@ -1,16 +1,51 @@
-## Hi there 👋
+<!--- Latex Text Formatting https://latex-tutorial.com/symbols/text-formatting/  -->
+# $\color{#9693db}{\textbf{Allan A. Côrte}}$ 👨‍💻🚀
 
-<!--
-**AllanCorte/AllanCorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Allan Profile Views](https://komarev.com/ghpvc/?username=AllanCorte&color=9693db&style=flat-square)
 
-Here are some ideas to get you started:
+Olá, 👋 Eu me chamo **Allan**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Desenvolvedor Full Stack em Formação**
+- 📚 Estudando **JavaScript e TypeScript (Front-end e Back-end)**  
+- 🐍 Formação sólida em **Python 3** (POO, Django, Selenium, Regex, TDD)
+- 🗄️ Estudando **SQL** e bancos de dados relacionais
+- 🤖 Interesse em **Automação, Inteligência Artificial e Análise de Dados**
+- 🌐 Inglês: **Básico / Técnico (em evolução)**
+
+---
+
+## 📲 Contato
+- 📧 Email: allanalvescorte@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/allanc%C3%B4rte/  
+- 💻 GitHub: https://github.com/AllanCorte  
+
+---
+
+## ⚒️ Skills
+
+### Front-end
+JavaScript · TypeScript · React · HTML · CSS
+
+### Back-end
+Node.js · Express · Python · Django
+
+### Banco de Dados
+SQL · PostgreSQL · MongoDB
+
+### Ferramentas
+Git · GitHub · VS Code
+
+---
+
+## 📂 Projetos
+**Projeto Agenda (Python)**  
+https://github.com/AllanCorte/PROJETO-AGENDA
+
+---
+
+## 🎯 Objetivo Profissional
+Atuar como **Estagiário ou Desenvolvedor Full Stack**, contribuindo no desenvolvimento de aplicações web, automações e soluções eficientes enquanto evoluo tecnicamente.
+
+---
+
+Made with 🚀 by Allan A. Côrte
